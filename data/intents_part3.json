@@ -1,0 +1,1216 @@
+{
+  "intents": [
+    {
+      "tag": "Biotechnology_MSc_eligibility",
+      "patterns": [
+        "Eligibility for Biotechnology M.Sc.",
+        "Requirements for M.Sc. in Biotechnology",
+        "What are the qualifications needed for Biotechnology M.Sc.",
+        "Biotechnology M.Sc. eligibility criteria"
+      ],
+      "responses": [
+        "Biotechnology (M.Sc.): Graduation in Life Science: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Mathematics_MA_MSc_eligibility",
+      "patterns": [
+        "Eligibility for Mathematics M.A./M.Sc.",
+        "Requirements for M.A./M.Sc. in Mathematics",
+        "What are the qualifications needed for Mathematics M.A./M.Sc.",
+        "Mathematics M.A./M.Sc. eligibility criteria"
+      ],
+      "responses": [
+        "Mathematics (M.A./M.Sc.): Graduation with Maths. : Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Pharmaceutical_Science_MPharm_eligibility",
+      "patterns": [
+        "Eligibility for Pharmaceutical Science M.Pharm.",
+        "Requirements for M.Pharm. in Pharmaceutical Science",
+        "What are the qualifications needed for Pharmaceutical Science M.Pharm.",
+        "Pharmaceutical Science M.Pharm. eligibility criteria"
+      ],
+      "responses": [
+        "Pharmaceutical Science (M.Pharm.): B.Pharm. with 55% or equivalent CGPA and valid GPAT/GATE Qualified Score. Registration with State Pharmacy Council: Candidates seeking admission to this programme should be graduate in B. Pharm.course with 55% or equivalent CGPA and valid GPAT/GATE score. Relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC/ST/PWD categories. The candidates should have registration with respective State Pharmacy Council or should obtain the same within 2 months from the date of admission failing to which the admission shall stand automatically cancelled."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Physics_MSc_eligibility",
+      "patterns": [
+        "Eligibility for Physics M.Sc.",
+        "Requirements for M.Sc. in Physics",
+        "What are the qualifications needed for Physics M.Sc.",
+        "Physics M.Sc. eligibility criteria"
+      ],
+      "responses": [
+        "Physics (M.Sc.): Graduation with Physics: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Statistics_MSc_eligibility",
+      "patterns": [
+        "Eligibility for Statistics M.Sc.",
+        "Requirements for M.Sc. in Statistics",
+        "What are the qualifications needed for Statistics M.Sc.",
+        "Statistics M.Sc. eligibility criteria"
+      ],
+      "responses": [
+        "Statistics (M.Sc.): B.Sc. with Mathematics and Statistics: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Zoology_MSc_eligibility",
+      "patterns": [
+        "Eligibility for Zoology M.Sc.",
+        "Requirements for M.Sc. in Zoology",
+        "What are the qualifications needed for Zoology M.Sc.",
+        "Zoology M.Sc. eligibility criteria"
+      ],
+      "responses": [
+        "Zoology (M.Sc.): Graduation with Zoology: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Library_Information_Science_BLibISc_eligibility",
+      "patterns": [
+        "Eligibility for Bachelor of Library & Information Science (B.Lib.I.Sc.)",
+        "Requirements for B.Lib.I.Sc.",
+        "What are the qualifications needed for B.Lib.I.Sc.",
+        "B.Lib.I.Sc. eligibility criteria"
+      ],
+      "responses": [
+        "Bachelor of Library & Information Science (B.Lib.I.Sc.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 50% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Bachelor_of_Law_LL.B_eligibility",
+      "patterns": [
+        "Eligibility for Bachelor of Law (LL.B.)",
+        "Requirements for LL.B.",
+        "What are the qualifications needed for LL.B.",
+        "LL.B. eligibility criteria"
+      ],
+      "responses": [
+        "Bachelor of Law (LL.B.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Bachelor_of_Journalism_BJ_eligibility",
+      "patterns": [
+        "Eligibility for Bachelor of Journalism (B.J.)",
+        "Requirements for B.J.",
+        "What are the qualifications needed for B.J.",
+        "B.J. eligibility criteria"
+      ],
+      "responses": [
+        "Bachelor of Journalism (B.J.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Post_Graduate_Diploma_in_Big_Analytics_PG-DBDA_eligibility",
+      "patterns": [
+        "Eligibility for Post Graduate Diploma in Big Analytics (PG-DBDA)",
+        "Requirements for PG-DBDA",
+        "What are the qualifications needed for PG-DBDA",
+        "PG-DBDA eligibility criteria"
+      ],
+      "responses": [
+        "Post Graduate Diploma in Big Analytics (PG-DBDA): Graduate Degree in B.Tech./ 4 Year B.Sc. Engineering/ AMIE./DoEACC B Level or Post Graduate Degree in MCA/MBA/M.Sc. (CS/ IT/Electronics/ Mathematics/ Statistics & Physics) Candidates must have Secure a minimum of 55% Marks in their qualifying Examination."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Linguistics_MA_eligibility",
+      "patterns": [
+        "Eligibility for Linguistics M.A.",
+        "Requirements for M.A. in Linguistics",
+        "What are the qualifications needed for Linguistics M.A.",
+        "Linguistics M.A. eligibility criteria"
+      ],
+      "responses": [
+        "Linguistics (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Urdu_MA_eligibility",
+      "patterns": [
+        "Eligibility for Urdu M.A.",
+        "Requirements for M.A. in Urdu",
+        "What are the qualifications needed for Urdu M.A.",
+        "Urdu M.A. eligibility criteria"
+      ],
+      "responses": [
+        "Urdu (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories. Language specific questions would be in Urdu language only."
+      ],
+      "context_set": ""
+    },
+        {
+          "tag": "Botany_MSc_eligibility",
+          "patterns": [
+            "Eligibility for Botany M.Sc.",
+            "Requirements for M.Sc. in Botany",
+            "What are the qualifications needed for Botany M.Sc.",
+            "Botany M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Botany (M.Sc.): Graduation with Botany: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Chemistry_MSc_eligibility",
+          "patterns": [
+            "Eligibility for Chemistry M.Sc.",
+            "Requirements for M.Sc. in Chemistry",
+            "What are the qualifications needed for Chemistry M.Sc.",
+            "Chemistry M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Chemistry (M.Sc.): Graduation with Chemistry: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Computer_Applications_MCA_eligibility",
+          "patterns": [
+            "Eligibility for M.C.A.",
+            "Eligibility for MCA",
+            "Requirements for M.C.A.",
+            "What are the qualifications needed for M.C.A.",
+            "M.C.A. eligibility criteria"
+          ],
+          "responses": [
+            "Computer Applications (M.C.A.): Graduation in any Discipline: The candidate should have passed 10+2 with Mathematics. The candidate should have passed with at least 50% marks or equivalent CGPA in their graduation in any discipline. A relaxation of 5% marks in the qualifying examination will be given to candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Criminology_MA_eligibility",
+          "patterns": [
+            "Eligibility for Criminology M.A.",
+            "Requirements for M.A. in Criminology",
+            "What are the qualifications needed for Criminology M.A.",
+            "Criminology M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Criminology (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Environmental_Sciences_MSc_eligibility",
+          "patterns": [
+            "Eligibility for Environmental Sciences M.Sc.",
+            "Requirements for M.Sc. in Environmental Sciences",
+            "What are the qualifications needed for Environmental Sciences M.Sc.",
+            "Environmental Sciences M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Environmental Sciences (M.Sc.): Bachelor degree in Environmental Science/Zoology/Botany/Chemistry/Physics/Geology/Microbiology/BSc/BTech (Biotechnology or relevant specialization)/Fisheries/Aquatic Science/ Marine Biology/Agriculture/Biology/Forensic Science/Geography/Computer Science."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Forensic_Science_MSc_eligibility",
+          "patterns": [
+            "Eligibility for Forensic Science M.Sc.",
+            "Requirements for M.Sc. in Forensic Science",
+            "What are the qualifications needed for Forensic Science M.Sc.",
+            "Forensic Science M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Forensic Science (M.Sc.): B.Sc. (any subjects): Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Applied_Geology_MTech_eligibility",
+          "patterns": [
+            "Eligibility for Applied Geology M.Tech.",
+            "Requirements for M.Tech. in Applied Geology",
+            "What are the qualifications needed for Applied Geology M.Tech.",
+            "Applied Geology M.Tech. eligibility criteria"
+          ],
+          "responses": [
+            "Applied Geology (M.Tech.): Graduation with Geology: Candidates seeking admission to this programme should have graduation with Geology as one of the subjects under 10+2+3 pattern with an aggregate of 45% marks or equivalent CGPA in the qualifying examination. A relaxation of 5 % marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Microbiology_MSc_eligibility",
+          "patterns": [
+            "Eligibility for Microbiology M.Sc.",
+            "Requirements for M.Sc. in Microbiology",
+            "What are the qualifications needed for Microbiology M.Sc.",
+            "Microbiology M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Microbiology (M.Sc.): Graduation in Life Science: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Geography_MA_MSc_eligibility",
+          "patterns": [
+            "Eligibility for Geography M.A./M.Sc.",
+            "Requirements for M.A./M.Sc. in Geography",
+            "What are the qualifications needed for Geography M.A./M.Sc.",
+            "Geography M.A./M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Geography (M.A./M.Sc.): Graduation with Geography: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "History_MA_eligibility",
+          "patterns": [
+            "Eligibility for History M.A.",
+            "Requirements for M.A. in History",
+            "What are the qualifications needed for History M.A.",
+            "History M.A. eligibility criteria"
+          ],
+          "responses": [
+            "History (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Hindustani_Music_MA_eligibility",
+          "patterns": [
+            "Eligibility for Hindustani Music M.A.",
+            "Requirements for M.A. in Hindustani Music",
+            "What are the qualifications needed for Hindustani Music M.A.",
+            "Hindustani Music M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Hindustani Music (M.A.): UG with Music (Vocal) /allied subject: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },    
+        {
+          "tag": "Eligibility_Philosophy_MA",
+          "patterns": [
+            "Eligibility for Philosophy M.A.",
+            "Requirements for M.A. in Philosophy",
+            "What are the qualifications needed for Philosophy M.A.",
+            "Philosophy M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Philosophy (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Political_Science_Public_Administration_MA",
+          "patterns": [
+            "Eligibility for Political Science/Public Administration M.A.",
+            "Requirements for M.A. in Political Science/Public Administration",
+            "What are the qualifications needed for Political Science/Public Administration M.A.",
+            "Political Science/Public Administration M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Political Science/Public Administration (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Psychology_MA_MSc",
+          "patterns": [
+            "Eligibility for Psychology M.A./M.Sc.",
+            "Requirements for M.A./M.Sc. in Psychology",
+            "What are the qualifications needed for Psychology M.A./M.Sc.",
+            "Psychology M.A./M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Psychology (M.A./M.Sc.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Social_Work_MSW",
+          "patterns": [
+            "Eligibility for Social Work M.S.W.",
+            "Requirements for M.S.W. in Social Work",
+            "What are the qualifications needed for Social Work M.S.W.",
+            "Social Work M.S.W. eligibility criteria"
+          ],
+          "responses": [
+            "Social Work (M.S.W.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Rural_Development_MA",
+          "patterns": [
+            "Eligibility for Rural Development M.A.",
+            "Requirements for M.A. in Rural Development",
+            "What are the qualifications needed for Rural Development M.A.",
+            "Rural Development M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Rural Development (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Sociology_MA",
+          "patterns": [
+            "Eligibility for Sociology M.A.",
+            "Requirements for M.A. in Sociology",
+            "What are the qualifications needed for Sociology M.A.",
+            "Sociology M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Sociology (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Percussion_Music_MA",
+          "patterns": [
+            "Eligibility for Percussion Music M.A.",
+            "Requirements for M.A. in Percussion Music",
+            "What are the qualifications needed for Percussion Music M.A.",
+            "Percussion Music M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Percussion Music (M.A.): UG with Music (Tabla) /allied subject: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_English_MA",
+          "patterns": [
+            "Eligibility for English M.A.",
+            "Requirements for M.A. in English",
+            "What are the qualifications needed for English M.A.",
+            "English M.A. eligibility criteria"
+          ],
+          "responses": [
+            "English (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Hindi_MA",
+          "patterns": [
+            "Eligibility for Hindi M.A.",
+            "Requirements for M.A. in Hindi",
+            "What are the qualifications needed for Hindi M.A.",
+            "Hindi M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Hindi (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Sanskrit_MA",
+          "patterns": [
+            "Eligibility for Sanskrit M.A.",
+            "Requirements for M.A. in Sanskrit",
+            "What are the qualifications needed for Sanskrit M.A.",
+            "Sanskrit M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Sanskrit (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Commerce_MCom",
+          "patterns": [
+            "Eligibility for Commerce M.Com.",
+            "Requirements for M.Com. in Commerce",
+            "What are the qualifications needed for Commerce M.Com.",
+            "Commerce M.Com. eligibility criteria"
+          ],
+          "responses": [
+            "Commerce (M.Com.): B.Com.: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Economics_MA",
+          "patterns": [
+            "Eligibility for Economics M.A.",
+            "Requirements for M.A. in Economics",
+            "What are the qualifications needed for Economics M.A.",
+            "Economics M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Economics (M.A.): Graduation with Economics/Mathematics/Commerce/Management: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Business_Management_MBA",
+          "patterns": [
+            "Eligibility for Business Management M.B.A.",
+            "Requirements for M.B.A. in Business Management",
+            "What are the qualifications needed for Business Management M.B.A.",
+            "Business Management M.B.A. eligibility criteria"
+          ],
+          "responses": [
+            "Business Management (M.B.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Travel_and_Tourism_Management_MBA",
+          "patterns": [
+            "Eligibility for Travel and Tourism Management M.B.A.",
+            "Requirements for M.B.A. in Travel and Tourism Management",
+            "What are the qualifications needed for Travel and Tourism Management M.B.A.",
+            "Travel and Tourism Management M.B.A. eligibility criteria"
+          ],
+          "responses": [
+            "Travel and Tourism Management (M.B.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Eligibility_Finance_Management_MBA",
+          "patterns": [
+            "Eligibility for Finance Management M.B.A.",
+            "Requirements for M.B.A. in Finance Management",
+            "What are the qualifications needed for Finance Management M.B.A.",
+            "Finance Management M.B.A. eligibility criteria"
+          ],
+          "responses": [
+            "Finance Management (M.B.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Marketing_Management_MBA_Eligibility",
+          "patterns": [
+            "Eligibility for Marketing Management M.B.A.",
+            "Requirements for M.B.A. in Marketing Management",
+            "What are the qualifications needed for Marketing Management M.B.A.",
+            "Marketing Management M.B.A. eligibility criteria"
+          ],
+          "responses": [
+            "Marketing Management (M.B.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Human_Resource_Management_MBA_Eligibility",
+          "patterns": [
+            "Eligibility for Human Resource Management M.B.A.",
+            "Requirements for M.B.A. in Human Resource Management",
+            "What are the qualifications needed for Human Resource Management M.B.A.",
+            "Human Resource Management M.B.A. eligibility criteria"
+          ],
+          "responses": [
+            "Human Resource Management (M.B.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Library_Science_MLib_ISc_Eligibility",
+          "patterns": [
+            "Eligibility for Library Science M.Lib & I.Sc.",
+            "Requirements for M.Lib & I.Sc. in Library Science",
+            "What are the qualifications needed for Library Science M.Lib & I.Sc.",
+            "Library Science M.Lib & I.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Library Science (M.Lib & I.Sc.): B.Lib.I.Sc.: Candidates seeking admission to M.Lib.I.Sc. must have secured 50% marks both in graduation as well as in B.Lib.I.Sc. Examination or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Law_LLM_Eligibility",
+          "patterns": [
+            "Eligibility for Law LL.M.",
+            "Requirements for LL.M. in Law",
+            "What are the qualifications needed for Law LL.M.",
+            "Law LL.M. eligibility criteria"
+          ],
+          "responses": [
+            "Law (LL.M.): LL.B./B.A.LL.B/B.Com.LL.B/B.Sc.LLB./BBA. LL.B.: Candidate must have passed LL.B. 3-Years after graduation under 10+2+3 pattern or five years LL.B. under 10+2+5 pattern duly recognized by the Bar Council of India and have secured a minimum of 50% marks or equivalent CGPA in the LL.B. Degree. Relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Education_MEd_Eligibility",
+          "patterns": [
+            "Eligibility for Education M.Ed.",
+            "Requirements for M.Ed. in Education",
+            "What are the qualifications needed for Education M.Ed.",
+            "Education M.Ed. eligibility criteria"
+          ],
+          "responses": [
+            "Education (M.Ed.): Candidates seeking admission to the M.Ed. programme should have obtained at least 50% marks or an equivalent grade in any of the following programmes: (i) B.Ed. (ii) B.A. B.Ed., B.Sc. B.Ed., (iii) B.EI.Ed. (iv) D.EI.Ed. with an undergraduate degree (with 50% marks in each). A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories for the admission in this programme."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Education_MA_Eligibility",
+          "patterns": [
+            "Eligibility for Education M.A.",
+            "Requirements for M.A. in Education",
+            "What are the qualifications needed for Education M.A.",
+            "Education M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Education (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Journalism_and_Mass_Comm_MA_JMC_Eligibility",
+          "patterns": [
+            "Eligibility for Journalism & Mass Comm. M.A. JMC",
+            "Requirements for M.A. JMC in Journalism & Mass Comm.",
+            "What are the qualifications needed for Journalism & Mass Comm. M.A. JMC",
+            "Journalism & Mass Comm. M.A. JMC eligibility criteria"
+          ],
+          "responses": [
+            "Journalism & Mass Comm. (M.A. JMC): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Yogic_Science_MA_MSc_Eligibility",
+          "patterns": [
+            "Eligibility for Yogic Science M.A./M.Sc.",
+            "Requirements for M.A./M.Sc. in Yogic Science",
+            "What are the qualifications needed for Yogic Science M.A./M.Sc.",
+            "Yogic Science M.A./M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Yogic Science (M.A./M.Sc.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Healthcare_and_Hospital_Management_MBA_Eligibility",
+          "patterns": [
+            "Eligibility for Healthcare and Hospital Management MBA",
+            "Requirements for MBA in Healthcare and Hospital Management",
+            "What are the qualifications needed for Healthcare and Hospital Management MBA",
+            "Healthcare and Hospital Management MBA eligibility criteria"
+          ],
+          "responses": [
+            "Healthcare and Hospital Management (MBA): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Ancient_Indian_History_Culture_Archeology_MA_Eligibility",
+          "patterns": [
+            "Eligibility for Ancient Indian History, Culture & Archeology M.A.",
+            "Requirements for M.A. in Ancient Indian History, Culture & Archeology",
+            "What are the qualifications needed for Ancient Indian History, Culture & Archeology M.A.",
+            "Ancient Indian History, Culture & Archeology M.A. eligibility criteria"
+          ],
+          "responses": [
+            "Ancient Indian History, Culture & Archeology (M.A.): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Anthropology_MA_MSc_Eligibility",
+          "patterns": [
+            "Eligibility for Anthropology M.A./M.Sc.",
+            "Requirements for M.A./M.Sc. in Anthropology",
+            "What are the qualifications needed for Anthropology M.A./M.Sc.",
+            "Anthropology M.A./M.Sc. eligibility criteria"
+          ],
+          "responses": [
+            "Anthropology (M.A./M.Sc.): Graduation with Anthropology/Sociology/Life Sciences: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "Performing_Arts_MPA_Theatre_Eligibility",
+          "patterns": [
+            "Eligibility for Performing Arts MPA (Theatre)",
+            "Requirements for MPA in Performing Arts (Theatre)",
+            "What are the qualifications needed for Performing Arts MPA (Theatre)",
+            "Performing Arts MPA (Theatre) eligibility criteria"
+          ],
+          "responses": [
+            "Performing Arts (MPA (Theatre)): Graduation in any Discipline: Candidates belonging to Unreserved (UR), EWS and OBC-NCL categories must have secured at least 45% marks or equivalent CGPA. A relaxation of 5% marks in the qualifying examination will be given to the candidates belonging to SC, ST and PWD categories."
+          ],
+          "context_set": ""
+        },          
+{
+  "tag": "Yogic_Science_MA_MSc",
+  "patterns": [
+    "Yogic Science M.A. M.Sc.",
+    "Yogic Science seats",
+    "How many seats in Yogic Science"
+  ],
+  "responses": [
+    "Yogic Science (M.A./M.Sc.): 30 seats (UR: 14, EWS: 3, OBC: 8, SC: 4, ST: 1)"
+  ],
+  "context_set": ""
+},
+  {
+    "tag": "relaxation_SC_ST",
+    "patterns": [
+      "Is there any relaxation for SC/ST students at Dr. Harisingh Gour University?",
+      "What are the benefits for SC/ST students at DHSGSU?",
+      "Does DHSGSU offer any relaxation for scheduled caste and scheduled tribe students?",
+      "Are there any special provisions for SC/ST students at Dr. Harisingh Gour University?",
+      "What relaxations are available for SC/ST students at DHSGSU?"
+    ],
+    "responses": [
+      "Dr. Harisingh Gour University is a central university that follows the guidelines laid by the government. Therefore, the central university has relaxations for scheduled caste and scheduled tribe students. SC and ST students can benefit from a 5% relaxation in the eligibility criteria. Moreover, the central university gives 3-5 years of age relaxation for SC/ST students. Additionally, students from the physically disabled community or OBC have numerous age and admissions relaxations."
+    ],
+    "context_set": ""
+  },
+    {
+      "tag": "nirf_ranking",
+      "patterns": [
+        "What is the NIRF ranking of Dr. Harisingh Gour University?",
+        "How is DHSGSU ranked by NIRF?",
+        "What is the overall NIRF ranking of Dr. Harisingh Gour University?",
+        "Where does DHSGSU stand in NIRF rankings?",
+        "What was the NIRF ranking of Dr. Harisingh Gour University in 2020?"
+      ],
+      "responses": [
+        "Dr. Harisingh Gour University was ranked in the 151-200 range out of 200 colleges in India in the overall category by NIRF in 2020."
+      ],
+      "context_set": ""
+    },  
+    
+        {
+          "tag": "PhD_admission_criteria",
+          "patterns": [
+            "How to get admission for PhD?",
+            "PhD admission criteria",
+            "PhD entrance exam",
+            "phd admission"
+          ],
+          "responses": ["Admission to PhD programs typically requires clearing exams like UGC NET and university-specific entrance tests."
+         ],
+      "context_set": ""
+        },
+    {
+      "tag": "After_Graduation_Courses",
+      "patterns": [
+        "after graduation course",
+        "after graduation",
+        "what i do after graduation"
+      ],
+      "responses": [
+        "M.Com. Commerce, M.A. Economics, M.B.A. Business Management, M.B.A. Travel and Tourism Management, M.B.A. Finance Management, M.B.A. Marketing Management, M.B.A. Human Resource Management, M.Lib & I.Sc. Library Science, LL.M. Law, M.A., M.Ed. Education, M.A. JMC Journalism & Mass Comm., M.A./M.Sc. Yogic Science, MBA Healthcare and Hospital Management, M.A. Ancient Indian History, Culture & Archeology, M.A./M.Sc. Anthropology, MPA (Theatre) Performing Arts, M.A./M.Sc. Geography, M.A. History, M.A. Hindustani Music, M.A. Philosophy, M.A. Political Science /Public Administration, M.A./M.Sc. Psychology, M.S.W. Social Work, M.A. Sociology, M.A. Percussion Music, M.A. English, M.A. Hindi, M.A. Sanskrit, M.A. Linguistics, M.A. Urdu, M.Sc. Botany, M.Sc. Chemistry, M.C.A. Computer Applications, M.A. Criminology, M.Sc. Environmental Sciences, M.Sc. Forensic Science, M.Tech. Applied Geology, M.Sc. Microbiology, M.A./M.Sc. Mathematics, M.Pharm. Pharmaceutical Science, M.Sc. Physics, M.Sc. Statistics, M.Sc. Zoology, M.A. Rural Development, M.Sc. Biotechnology, B.Lib.I.Sc. Bachelor of Library & Information Science, LL.B. Bachelor of Law, B.J. Bachelor of Journalism, Post Graduate Diploma in Big Analytics"
+      ],
+      "context_set": ""
+    },
+    
+  {
+    "tag": "university_famous_for",
+    "patterns": [
+      "What is Dr. Harisingh Gour University famous for?",
+      "What courses is DHSGSU known for?",
+      "What are the flagship programs of Dr. Harisingh Gour University?",
+      "Why is Dr. Harisingh Gour University well-known?",
+      "What makes DHSGSU popular?"
+    ],
+    "responses": [
+      "Dr. Harisingh Gour University is famous for its law courses and pharmaceutical sciences courses. The university offers great faculty members and student amenities. The course fee for the flagship courses is also respectable for the popularity of the courses. An aspirant must appear for CUET UG and CUET PG exams in order to secure admission in the flagship courses."
+    ],
+    "context_set": ""
+  },
+    {
+      "tag": "head_adult_education",
+      "patterns": [
+        "Who is the head of Adult Education at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Adult Education at DHSGSU?",
+        "Who is in charge of Adult Education at DHSGSU?",
+        "HOD of Adult Education"
+      ],
+      "responses": [
+        "Prof. Anil Kumar Jain is the Head of Adult Education at Dr. Harisingh Gour University. Contact him at +91-9414349114 or email at hodadulteducation@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_ancient_indian_history_culture_archaeology",
+      "patterns": [
+        "Who is the head of Ancient Indian History, Culture & Archaeology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Ancient Indian History, Culture & Archaeology at DHSGSU?",
+        "Who is in charge of Ancient Indian History, Culture & Archaeology at DHSGSU?",
+        "HOD of Ancient Indian History"
+      ],
+      "responses": [
+        "Prof. Nagesh Dubey is the Head of Ancient Indian History, Culture & Archaeology at Dr. Harisingh Gour University. Contact him at 9406519753 or email at nageshdubey22@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_anthropology",
+      "patterns": [
+        "Who is the head of Anthropology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Anthropology at DHSGSU?",
+        "Who is in charge of Anthropology at DHSGSU?",
+        "HOD of Anthropology"
+      ],
+      "responses": [
+        "Prof. Ajeet Jaiswal is the Head of Anthropology at Dr. Harisingh Gour University. Contact him at 07582-297137 or email at hodanthropology@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_biotechnology",
+      "patterns": [
+        "Who is the head of Biotechnology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Biotechnology at DHSGSU?",
+        "Who is in charge of Biotechnology at DHSGSU?",
+        "HOD of Biotechnology"
+      ],
+      "responses": [
+        "Prof. (Ms) Janak Dulari Ahi is the Head of Biotechnology at Dr. Harisingh Gour University. Contact her at 9425671522 or email at j_ahi@yahoo.co.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_botany",
+      "patterns": [
+        "Who is the head of Botany at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Botany at DHSGSU?",
+        "Who is in charge of Botany at DHSGSU?",
+        "HOD of Botany"
+      ],
+      "responses": [
+        "Prof. M. L. Khan is the Head of Botany at Dr. Harisingh Gour University. Contact him at 919425613661 or email at khanml61@gmail.com; khanml@yahoo.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_business_management",
+      "patterns": [
+        "Who is the head of Business Management at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Business Management at DHSGSU?",
+        "Who is in charge of Business Management at DHSGSU?",
+        "HOD of Business Management"
+      ],
+      "responses": [
+        "Dr. Y. S. Thakur is the Head of Business Management at Dr. Harisingh Gour University. Contact him at 9425170997 or email at hodbussinessmanagement@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_chemistry",
+      "patterns": [
+        "Who is the head of Chemistry at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Chemistry at DHSGSU?",
+        "Who is in charge of Chemistry at DHSGSU?",
+        "HOD of Chemistry"
+      ],
+      "responses": [
+        "Prof. A. P. Mishra is the Head of Chemistry at Dr. Harisingh Gour University. Contact him at 9425425938 or email at apmishra@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_commerce",
+      "patterns": [
+        "Who is the head of Commerce at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Commerce at DHSGSU?",
+        "Who is in charge of Commerce at DHSGSU?",
+        "HOD of Commerce"
+      ],
+      "responses": [
+        "Prof. J. K. Jain is the Head of Commerce at Dr. Harisingh Gour University. Contact him at 9425436471 or email at jkjain@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_computer_science",
+      "patterns": [
+        "Who is the head of Computer Science & Application at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Computer Science & Application at DHSGSU?",
+        "Who is in charge of Computer Science & Application at DHSGSU?",
+        "HOD of Computer Science & Application"
+      ],
+      "responses": [
+        "Dr. Abhishek Bansal is the Head of Computer Science & Application at Dr. Harisingh Gour University. Contact him at 91-9575391842 or email at hodcomputerscience@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_criminology_forensic_science",
+      "patterns": [
+        "Who is the head of Criminology & Forensic Science at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Criminology & Forensic Science at DHSGSU?",
+        "Who is in charge of Criminology & Forensic Science at DHSGSU?",
+        "HOD of Criminology & Forensic Science"
+      ],
+      "responses": [
+        "Prof. Devashish Bose is the Head of Criminology & Forensic Science at Dr. Harisingh Gour University. Contact him at 9425425031 or email at dbose@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_economics",
+      "patterns": [
+        "Who is the head of Economics at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Economics at DHSGSU?",
+        "Who is in charge of Economics at DHSGSU?",
+        "HOD of Economics"
+      ],
+      "responses": [
+        "Prof. Prakash Sankar Kamble is the Head of Economics at Dr. Harisingh Gour University. Contact him at his email address provided by the university."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_education",
+      "patterns": [
+        "Who is the head of Education at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Education at DHSGSU?",
+        "Who is in charge of Education at DHSGSU?",
+        "HOD of Education"
+      ],
+      "responses": [
+        "Prof. Anil Kumar Jain is the Head of Education at Dr. Harisingh Gour University. Contact him at +91-9414349114 or email at hodeducation@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_english_european_languages",
+      "patterns": [
+        "Who is the head of English and European Languages at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of English and European Languages at DHSGSU?",
+        "Who is in charge of English and European Languages at DHSGSU?",
+        "HOD of English and European Languages"
+      ],
+      "responses": [
+        "Prof. B.I. Guru is the Head of English and European Languages at Dr. Harisingh Gour University. Contact him at 9425171824 or email at bhutshgru@rediffmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_fine_arts_performing_arts",
+      "patterns": [
+        "Who is the head of Fine Arts and Performing Arts at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Fine Arts and Performing Arts at DHSGSU?",
+        "Who is in charge of Fine Arts and Performing Arts at DHSGSU?",
+        "HOD of Fine Arts and Performing Arts"
+      ],
+      "responses": [
+        "Prof. Balwant Singh Bhadoria is the Head of Fine Arts and Performing Arts at Dr. Harisingh Gour University. Contact him at his email address provided by the university."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_general_applied_geography",
+      "patterns": [
+        "Who is the head of General & Applied Geography at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of General & Applied Geography at DHSGSU?",
+        "Who is in charge of General & Applied Geography at DHSGSU?",
+        "neral & Applied GeoHOD of Gegraphy"
+      ],
+      "responses": [
+        "Prof. Vinod Kumar Bhardwaj is the Head of General & Applied Geography at Dr. Harisingh Gour University. Contact him at 9414304650 or email at hodgeography@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_history",
+      "patterns": [
+        "Who is the head of History at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of History at DHSGSU?",
+        "Who is in charge of History at DHSGSU?",
+        "HOD of History"
+      ],
+      "responses": [
+        "Prof. B.K. Shrivastava is the Head of History at Dr. Harisingh Gour University. Contact him at 9425635675 or email at shribk2000@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_law",
+      "patterns": [
+        "Who is the head of Law at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Law at DHSGSU?",
+        "Who is in charge of Law at DHSGSU?",
+        "HOD of Law"
+      ],
+      "responses": [
+        "Prof. G.L. Puntambekar is the Head of Law at Dr. Harisingh Gour University. Contact him at 9425425964."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_library_information_science",
+      "patterns": [
+        "Who is the head of Library & Information Science at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Library & Information Science at DHSGSU?",
+        "Who is in charge of Library & Information Science at DHSGSU?",
+        "HOD of Library & Information Science"
+      ],
+      "responses": [
+        "Dr. D. K. Nema is the Head of Library & Information Science (I/C) at Dr. Harisingh Gour University. Contact him at 9425171261 or email at dinesh_nema10@yahoo.co.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_linguistics",
+      "patterns": [
+        "Who is the head of Linguistics at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Linguistics at DHSGSU?",
+        "Who is in charge of Linguistics at DHSGSU?",
+        "HOD of Linguistics"
+      ],
+      "responses": [
+        "Prof. Chanda Bain is the Head of Linguistics (I/C) at Dr. Harisingh Gour University. Contact her at 9479949601 or email at drchandabain1@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_mathematics_statistics",
+      "patterns": [
+        "Who is the head of Mathematics & Statistics at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Mathematics & Statistics at DHSGSU?",
+        "Who is in charge of Mathematics & Statistics at DHSGSU?",
+        "HOD of Mathematics & Statistics"
+      ],
+      "responses": [
+        "Prof. Diwakar Shukla is the Head of Mathematics & Statistics at Dr. Harisingh Gour University. Contact him at 9425437203 or email at diwakarshukla@rediffmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_microbiology",
+      "patterns": [
+        "Who is the head of Microbiology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Microbiology at DHSGSU?",
+        "Who is in charge of Microbiology at DHSGSU?",
+        "HOD of Microbiology"
+      ],
+      "responses": [
+        "Prof. Naveen Kango is the Head of Microbiology at Dr. Harisingh Gour University. Contact him at 9425635736 or email at nkango@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_music",
+      "patterns": [
+        "Who is the head of Music at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Music at DHSGSU?",
+        "Who is in charge of Music at DHSGSU?",
+        "HOD of Music"
+      ],
+      "responses": [
+        "Prof. Ashok Ahirwar is the Head (I/C) of Music at Dr. Harisingh Gour University. Contact him at 9425170725 or email at ashokahirwar1963@Gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_pharmaceutical_science",
+      "patterns": [
+        "Who is the head of Pharmaceutical Science at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Pharmaceutical Science at DHSGSU?",
+        "Who is in charge of Pharmaceutical Science at DHSGSU?",
+        "HOD of Pharmaceutical Science"
+      ],
+      "responses": [
+        "Prof. Umesh Kumar Patil is the Head of Pharmaceutical Science at Dr. Harisingh Gour University. Contact him at 9425172165 or email at ukpatil@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_philosophy",
+      "patterns": [
+        "Who is the head of Philosophy at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Philosophy at DHSGSU?",
+        "Who is in charge of Philosophy at DHSGSU?",
+        "HOD of Philosophy"
+      ],
+      "responses": [
+        "Prof. Dr. Anil Kumar Tewari is the Head of Philosophy at Dr. Harisingh Gour University. Contact him at 9419160804 or email at hodphilosophy@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_physical_education",
+      "patterns": [
+        "Who is the head of Physical Education at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Physical Education at DHSGSU?",
+        "Who is in charge of Physical Education at DHSGSU?",
+        "HOD of Physical Education"
+      ],
+      "responses": [
+        "Prof. Vivak B. Sathe is the Head (I/C) of Physical Education at Dr. Harisingh Gour University. Contact him at 9300748215 or email at vbsathe@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_physics",
+      "patterns": [
+        "Who is the head of Physics at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Physics at DHSGSU?",
+        "Who is in charge of Physics at DHSGSU?",
+        "HOD of Physics"
+      ],
+      "responses": [
+        "Prof. Ashish Verma is the Head of Physics at Dr. Harisingh Gour University. Contact him at 9424554171 or email at vermaashish31@rediffmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_political_science_public_administration",
+      "patterns": [
+        "Who is the head of Political Science & Public Administration at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Political Science & Public Administration at DHSGSU?",
+        "Who is in charge of Political Science & Public Administration at DHSGSU?",
+        "HOD of Political Science & Public Administration"
+      ],
+      "responses": [
+        "Prof. Anupam Sharma is the Head of Political Science & Public Administration at Dr. Harisingh Gour University. Contact him at 9456262728 or email at anupam.vishvesh@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_psychology",
+      "patterns": [
+        "Who is the head of Psychology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Psychology at DHSGSU?",
+        "Who is in charge of Psychology at DHSGSU?",
+        "HOD of Psychology"
+      ],
+      "responses": [
+        "Prof. A.D. Sharma is the Head (I/C) of Psychology at Dr. Harisingh Gour University. Contact him at 9406519498 or email at sharmambikadatta@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_sanskrit",
+      "patterns": [
+        "Who is the head of Sanskrit at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Sanskrit at DHSGSU?",
+        "Who is in charge of Sanskrit at DHSGSU?",
+        "HOD of Sanskrit"
+      ],
+      "responses": [
+        "Prof. Jay Prakash Sharma is the Head of Sanskrit at Dr. Harisingh Gour University. Contact him at 9424434804 or email at hod.sanskritdhsgsu@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_sociology",
+      "patterns": [
+        "Who is the head of Sociology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Sociology at DHSGSU?",
+        "Who is in charge of Sociology at DHSGSU?",
+        "HOD of Sociology"
+      ],
+      "responses": [
+        "Prof. Shiveshchandra is the Head of Sociology at Dr. Harisingh Gour University. Contact him at 9425171663 or email at hod.sociology@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_statistics",
+      "patterns": [
+        "Who is the head of Statistics at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Statistics at DHSGSU?",
+        "Who is in charge of Statistics at DHSGSU?",
+        "HOD of Statistics"
+      ],
+      "responses": [
+        "Prof. R. K. Sharma is the Head of Statistics at Dr. Harisingh Gour University. Contact him at 9425170963 or email at hodstatistics@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_social_work",
+      "patterns": [
+        "Who is the head of Social Work at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Social Work at DHSGSU?",
+        "Who is in charge of Social Work at DHSGSU?",
+        "HOD of Social Work"
+      ],
+      "responses": [
+        "Prof. R.P. Singh is the Head of Social Work at Dr. Harisingh Gour University. Contact him at 9424434386 or email at rpsharishigour@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_telugu",
+      "patterns": [
+        "Who is the head of Telugu at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Telugu at DHSGSU?",
+        "Who is in charge of Telugu at DHSGSU?",
+        "HOD of Telugu"
+      ],
+      "responses": [
+        "Prof. Anil Kumar Tripathi is the Head of Telugu at Dr. Harisingh Gour University. Contact him at 9425151126 or email at anilptripathi@gmail.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_urdu",
+      "patterns": [
+        "Who is the head of Urdu at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Urdu at DHSGSU?",
+        "Who is in charge of Urdu at DHSGSU?",
+        "HOD of Urdu"
+      ],
+      "responses": [
+        "Prof. Khwaja Mohd. Tariq is the Head of Urdu at Dr. Harisingh Gour University. Contact him at 9425151212 or email at tariqkhaja@yahoo.com."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "head_zoology",
+      "patterns": [
+        "Who is the head of Zoology at Dr. Harisingh Gour University?",
+        "Can you provide contact details for the head of Zoology at DHSGSU?",
+        "Who is in charge of Zoology at DHSGSU?",
+        "HOD of Zoology"
+      ],
+      "responses": [
+        "Prof. Shiveshchandra is the Head of Zoology at Dr. Harisingh Gour University. Contact him at 9425171663 or email at hodzoology@dhsgsu.edu.in."
+      ],
+      "context_set": ""
+    }, 
+    {
+      "tag": "fallback",
+      "patterns": [
+          ""
+      ],
+      "responses": [
+          "I'm sorry, I didn't understand that. Can you please rephrase?",
+          "I didn't get that. Can you say it differently?",
+          "I'm not sure I understand. Could you clarify?"
+      ],
+      "context_set": ""
+  },
+{
+"tag": "Computer Science Hod",
+"patterns": [
+   "Dr. Abhishek Bansal",
+   "Dr. Abhishek Bansal",
+   "hod of computer science",
+   "cs hod",
+   "who is the Dr. Abhishek Bansal"
+],
+"responses": [
+   "Dr. Abhishek Bansal is a Hod of Computer Science and Applicatons Department"
+],
+"context_set": ""
+}
+]
+}

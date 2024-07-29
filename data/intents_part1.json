@@ -1,0 +1,829 @@
+{
+   "intents":[
+      {
+         "tag": "greeting",
+         "patterns": [
+            "Hi",
+            "How are you?",
+            "Is anyone there?",
+            "Hello"
+         ],
+         "responses": [
+            "Hello!",
+            "Good to see you again!",
+            "Hi there, how can I help?"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "farewell",
+         "patterns": [
+            "thank you",
+            "see you",
+            "Goodbye",
+            "I am leaving"
+         ],
+         "responses": [
+            "Sad to see you go :(",
+            "Talk to you later",
+            "Goodbye!",
+            "Come back soon"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "developer_info",
+         "patterns": [
+            "who created you",
+            "who are your developers",
+            "who made you",
+            "your developers",
+            "creator",
+            "owner of this chatbot"
+         ],
+         "responses": [
+            "Akhilesh Singh MCA IV Sem(Departement of computer science and applications)"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "bot_name",
+         "patterns": [
+            "what is your name",
+            "do you have a name",
+            "what are you called",
+            "what is your name",
+            "who are you"
+         ],
+         "responses": [
+            "You can call me Mind Reader.",
+            "I'm Mind Reader.",
+            "I am Saavi.",
+            "I am your helper."
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "working_hours",
+         "patterns": [
+            "university timing",
+            "working days",
+            "what are your hours",
+            "when is the university open"
+         ],
+         "responses": [
+            "University is open 9am-6pm Monday-Friday!"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "contact_info",
+         "patterns": [
+            "contact info university",
+            "how to contact university",
+            "university telephone number",
+            "university number",
+            "mobile number for university",
+            "phone number for university"
+         ],
+         "responses": [
+            "You can contact at: 07582-265833. For more Info please tap this link <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/contact-us-main\"> here</a>"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "courses_offered",
+         "patterns": [
+            "list of courses",
+            "courses offered",
+            "what are the courses offered",
+            "branches available"
+         ],
+         "responses": [
+            "Dr. Hari Singh Gour University offers 30+ Undergraduate, Postgraduate, Diploma, Certificate, and Doctorate programs in various fields. Please tap on the link to get more about <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/departments01\"> here</a>"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "fee_structure",
+         "patterns": [
+            "information about fee",
+            "university fee",
+            "what is the fee per semester",
+            "fees structure"
+         ],
+         "responses": [
+            "For Course Fee detail visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/admissions/admission-2023-24/5139-revised-fee-structure-ug-pg-2023-24-admission-cell-dispno-dt-12-04-2024\"> here</a>, Hostel Fees for Boys Hostel is Rs 1645 for 6 Months"
+         ],
+         "context_set": ""
+      },
+      {
+         "tag": "location_info",
+         "patterns": [
+            "where is the university located",
+            "address of university",
+            "university location",
+            "how to reach university"
+         ],
+         "responses": [
+            "University Road, Sagar, Madhya Pradesh 470003. <a target=\"_blank\" href=\"https://maps.google.com/maps/dir//Dr.+Harisingh+Gour+University+University+Road+Sagar,+Madhya+Pradesh+470003/@23.8259449,78.7712249,14z/data=!4m5!4m4!1m0!1m2!1m1!1s0x3978d15c01940a2b:0x53f0bc9db8fc188e\"> here</a>"
+         ],
+         "context_set": ""
+      },
+            {
+               "tag": "hostel_facility",
+               "patterns": [
+                  "What hostel facilities are available?",
+                  "Does the university provide a hostel?",
+                  "What is the fee for the hostel?",
+                  "Where is the hostel located?"
+               ],
+               "responses": [
+                  "We provide hostel facility for Boys and Girls. For Boys hostel details visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/admission/hostel/boys-hostel\"> here</a> For Girls hostel details visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/admission/hostel/girls-hostel\"> here</a>"
+               ],
+               "context_set": "hostel"
+            },
+            {
+               "tag": "university_events",
+               "patterns": [
+                  "What events are organized at the university?",
+                  "Can you provide a list of university events?",
+                  "What functions are held at the university?",
+                  "Tell me about the events at the university"
+               ],
+               "responses": [
+                  "For event details visit <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/events-all\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "admission_documents",
+               "patterns": [
+                  "What documents are needed for admission?",
+                  "What paperwork is required during admission?",
+                  "Which documents should I bring for admission?",
+                  "What are the necessary documents for admission?"
+               ],
+               "responses": [
+                  "Application Form, Original Transfer Certificate, Migration Certificate, Mark-sheet of 1Oth class (DoB proof), Original mark sheet of Qualifying Examination, PG Registration Form, caste certificate (sc/sr/oBc-NcL) as per central Government norms, Income Certificate for SC/ST/OBC-NCL/ UR-EWS (latest), Certificate of Physically Challenged, Defence personnel/ Ex-serviceman, NCC & NSS certificate (if applicable), Four Passport size photographs, Self-Attested Xerox copies of all the documents, self-signed declaration regarding gap (instead of notary affidavit). To know more about the documents required visit <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/admissions/admission-2024-25\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "university_info",
+               "patterns": [
+                  "Tell me about Dr. Harisingh Gour University",
+                  "What is DHSGSU?",
+                  "tell me about this university",
+                  "Provide information about Dr. Harisingh Gour University",
+                  "Which is the oldest university in Madhya Pradesh?"
+               ],
+               "responses": [
+                  "Dr. Harisingh Gour Vishwavidyalaya, also known as Dr. Harisingh Gour University (DHSGSU), is a central university located in Madhya Pradesh. It was established in 1946 and is the oldest and biggest university in Madhya Pradesh. The university offers over 30 Undergraduate, Postgraduate, Diploma, Certificate, and Doctorate programs in various fields such as Humanities, Science and Technology, Business Management, Journalism and Mass Communication, Education, and more. DHSGSU is recognized by the UGC and accredited with an A+ grade by the NAAC. Admission to UG and PG courses is based on the Common University Entrance Test (CUET), conducted by the NTA. For more info <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/about-us/our-profile\"> here</a>"
+               ],
+               "context_set": "university_info"
+            },
+            {
+               "tag": "accreditation_details",
+               "patterns": [
+                  "Is DHSGSU recognized by the UGC?",
+                  "What is the NAAC grade of Dr. Harisingh Gour University?",
+                  "Is Dr. Harisingh Gour University accredited?",
+                  "What accreditation does DHSGSU have?"
+               ],
+               "responses": [
+                  "Dr. Harisingh Gour University is recognized by the UGC and accredited with an A+ grade by the NAAC."
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "syllabus_info",
+               "patterns": [
+                  "Can you provide the syllabus for IT?",
+                  "What is the Information Technology syllabus?",
+                  "Where can I find the political science syllabus?",
+                  "Please provide the syllabus for pharmacy"
+               ],
+               "responses": [
+                  "Syllabus is provided directly to the students. To know about the syllabus visit <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/student-corner/syllabus-student\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "library_info",
+               "patterns": [
+                  "Is there a library at the university?",
+                  "What library facilities are available?",
+                  "Does the university have a library?",
+                  "Where can I get books at the university?"
+               ],
+               "responses": [
+                  "There are two huge and spacious libraries and all departments have their own dedicated libraries. Jawaharlal Nehru Library, Dr. Harisingh Gour Vishwavidyalaya Sagar (Central University) is the oldest and largest university library situated in the Sagar district of Madhya Pradesh. For more info visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/admission/central-library\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "infrastructure_info",
+               "patterns": [
+                  "How is the university infrastructure?",
+                  "Describe the infrastructure of the university",
+                  "What facilities does the university infrastructure include?"
+               ],
+               "responses": [
+                  "Our University has excellent infrastructure. The main campus of DHGV is in Sagar City on Patharia hills, sprawling over 850 hectares of land. The DHGV also has several affiliated colleges and a distance education wing. Please tap on the link for more information <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/infrastructure\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "canteen_info",
+               "patterns": [
+                  "What food is available in the university canteen?",
+                  "Can you tell me about the canteen facilities?",
+                  "Does the university have a canteen?",
+                  "What food options are there in the canteen?"
+               ],
+               "responses": [
+                  "We serve Aloo-puri, Kachori, Samosa, Thali, Aloo Paratha, and many more in the canteen."
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "placement_info",
+               "patterns": [
+                  "What is the placement process at the university?",
+                  "Which companies visit the university for placements?",
+                  "What is the average package offered?",
+                  "Tell me about the placement opportunities"
+               ],
+               "responses": [
+                  "To know about placements visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/placement-uniersity\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "library_timing",
+               "patterns": [
+                  "What are the library timings?",
+                  "When is the library open?",
+                  "Library hours of operation",
+                  "What is the library schedule?"
+               ],
+               "responses": [
+                  "The library is open Monday to Friday from 9:30 AM to 9 PM, Saturday from 10:30 AM to 6 PM, and Sunday from 10AM to 4PM."
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "Aacharya_Shankar_Bhavan",
+               "patterns": [
+                 "Aacharya Shankar Bhavan location",
+                 "Aacharya Shankar Bhavan address",
+                 "Aacharya Shankar Bhavan contact",
+                 "Aacharya Shankar Bhavan details"
+               ],
+               "responses": [
+                  "Aacharya Shankar Bhavan is located at <a target=\"_blank\" href=\"https://maps.app.goo.gl/kdFvgyRnaTBz3nQV9\"> here</a>"
+               ],
+                  "context_set": ""
+             },
+             {
+               "tag": "Maharishi_Kanad_Bhawan",
+               "patterns": [
+                 "Maharishi Kanad Bhawan location",
+                 "Maharishi Kanad Bhawan address",
+                 "Maharishi Kanad Bhawan contact",
+                 "Maharishi Kanad Bhawan details"
+               ],
+               "responses": [
+                  "Maharishi kanad Bhavan is located at <a target=\"_blank\" href=\"https://maps.app.goo.gl/oG79sMAHEq65bsUSA\"> here</a>"
+               ],
+                  "context_set": ""
+             },
+             {
+               "tag": "Location_Computer_Scincence_And_Applications",
+               "patterns": [
+                 "Computer science and application department location",
+                 "Computer science and application address",
+                 "Computer science location"
+               ],
+               "responses": [
+                  "Computer science and application department is located at <a target=\"_blank\" href=\"https://maps.app.goo.gl/T61HLV9Wap6ShSaR7\"> here</a>"
+               ],
+                  "context_set": ""
+             },
+            {
+               "tag": "department_hod",
+               "patterns": [
+                  "Who is the HOD of the computer science department?",
+                  "Name of the head of the computer science department",
+                  "Who is the head of the computer science department?",
+                  "Who is the current HOD of computer science?"
+               ],
+               "responses": [
+                  "Dr. Abhishek Bansal is the HOD of the computer science department. For more information <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/departments01/computer-science-application\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "vice_chancellor",
+               "patterns": [
+                  "Who is the vice chancellor of the university?",
+                  "Name of the current vice chancellor",
+                  "Who is the VC of Dr. Harisingh Gour University?",
+                  "Where is the office of the vice chancellor?",
+                  "who is vc of this university"
+               ],
+               "responses": [
+                  "Prof. Neelima Gupta is the Vice-Chancellor of Dr. Hari Singh Gour University. For more info click on the link. <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/administration/vice-chancellor\"> website</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "semester_exams",
+               "patterns": [
+                  "When are the semester exams conducted?",
+                  "Schedule of semester exams",
+                  "What is the exam timetable?",
+                  "Tell me the dates of semester exams",
+                  "semester exam"
+               ],
+               "responses": [
+                  "The schedule for semester exams is provided on the university website. For more information visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/examinations\"> here</a>"
+               ],
+               "context_set": ""
+            },
+            {
+               "tag": "fees_structure",
+               "patterns": [
+                  "What is the fee structure for courses?",
+                  "Can you provide the fee details?",
+                  "What are the tuition fees?",
+                  "Tell me about the fees for various courses"
+               ],
+               "responses": [
+                  "The fee structure for various courses is provided on the university website. For more information visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/admission/fee-structure\"> here</a>"
+               ],
+               "context_set": ""
+            },
+                  {
+                     "tag": "admission_process",
+                     "patterns": [
+                        "what is the admission process",
+                        "How can I apply for courses?",
+                        "Is there an entrance exam?",
+                        "How do I get admission?"
+                     ],
+                     "responses": [
+                        "Admission to UG and PG courses at DHSGSU is based on the Common University Entrance Test (CUET), conducted by the NTA. More details are available <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/admissions/admission-2023-24\">here</a>."
+                     ],
+                     "context_set": ""
+                  },
+                  {
+                     "tag": "scholarship_info",
+                     "patterns": [
+                        "Is scholarship available?",
+                        "What scholarships are offered?",
+                        "Can I get a scholarship?",
+                        "List of scholarships?",
+                        "scholarship"
+                     ],
+                     "responses": [
+                        "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/student-corner/scholarships\">here</a>."
+                     ],
+                     "context_set": ""
+                  },
+                  {
+                     "tag": "facilities_info",
+                     "patterns": [
+                        "What facilities does the university provide?",
+                        "Tell me about university facilities.",
+                        "Are there any labs?",
+                        "What are the university facilities?"
+                     ],
+                     "responses": [
+                        "Our university provides fully AC Lab with internet connection, smart classrooms, auditoriums, and a library. For more details, visit <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/infrastructure\">here</a>."
+                     ],
+                     "context_set": ""
+                  },
+                  {
+                     "tag": "vacation_info",
+                     "patterns": [
+                        "When are the holidays?",
+                        "What are the semester dates?",
+                        "List of holidays?",
+                        "How long are vacations?"
+                     ],
+                     "responses": [
+                        "Tap on the link to see the holiday list: <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/academics/list-of-holidays\">here</a>."
+                     ],
+                     "context_set": ""
+                  },
+                     {
+                         "tag": "sports_info",
+                         "patterns": [
+                             "What sports facilities are available?",
+                             "Tell me about sports infrastructure.",
+                             "Can you give details about sports and games?",
+                             "What sports activities are organized?",
+                             "What sports and games are available at the university?",
+                             "Can you give details about the sports facilities?",
+                             "What sports infrastructure does the campus have?",
+                             "Tell me about the sports activities at the university."
+                         ],
+                         "responses": [
+                             "Our university encourages all-round development of students and hence provides sports facilities on campus. For more details visit <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/admission/sports-facility\">here</a>."
+                         ],
+                         "context_set": "sports_info"
+                     },
+                     {
+                         "tag": "salutation",
+                         "patterns": [
+                             "Thank you",
+                             "Thanks",
+                             "Good job",
+                             "Well done"
+                         ],
+                         "responses": [
+                             "I am glad I could assist you.",
+                             "You're welcome! Is there anything else I can help you with?"
+                         ],
+                         "context_set": ""
+                     },
+                     {
+                         "tag": "task_info",
+                         "patterns": [
+                             "What can you do for me?",
+                             "How can you help me?",
+                             "What are your capabilities?",
+                             "What tasks can you assist with?"
+                         ],
+                         "responses": [
+                             "I can answer questions related to university information. Feel free to ask!",
+                             "You can ask me about university-related queries, and I'll provide you with information."
+                         ],
+                         "context_set": ""
+                     },
+                     {
+                         "tag": "ragging_policy",
+                         "patterns": [
+                             "What is the university's policy on ragging?",
+                             "Is there an anti-ragging facility?",
+                             "anti-ragging",
+                             "Are there any incidents of ragging reported?",
+                             "Tell me about ragging prevention measures."
+                         ],
+                         "responses": [
+                             "Our university provides a ragging-free environment with strict rules against ragging. <a target=\"_blank\" href=\"http://www.dhsgsu.edu.in/index.php/en/student-corner/anti-ragging3\">Click here</a> for more information."
+                         ],
+                         "context_set": ""
+                     },
+                     {
+                         "tag": "recruitment_info",
+                         "patterns": [
+                             "Are there any job openings?",
+                             "Can you provide details about recruitment?",
+                             "How can I apply for a teaching position?",
+                             "What are the current vacancies?"
+                         ],
+                         "responses": [
+                             "Tap on the link to get updates on recruitment: <a target=\"_blank\" href=\"https://dhsgsu.edu.in/index.php/en/recruitment\">Click here</a>"
+                         ],
+                         "context_set": "recruitment-follow-up"
+                     },
+                     {
+                        "tag": "BABEd_eligibility",
+                        "patterns": [
+                          "B.A.B.Ed. seats",
+                          "ba bed seats",
+                          "b.a. b.ed seats",
+                          "b.a. b.ed eligibility",
+                          "ba b.ed eligibility",
+                          "How many seats in B.A.B.Ed.",
+                          "Eligibility for B.A.B.Ed.",
+                          "B.A.B.Ed. eligibility criteria",
+                          "Qualifications for B.A.B.Ed.",
+                          "Requirements for B.A.B.Ed.",
+                          "Number of seats in B.A.B.Ed.",
+                          "Seats available for B.A.B.Ed.",
+                          "Admission requirements for B.A.B.Ed.",
+                          "B.A.B.Ed. course details"
+                        ],
+                        "responses": [
+                          "B.A.B.Ed.: 63 seats, Eligibility: 10+2 in any Discipline, Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BFA_eligibility",
+                        "patterns": [
+                          "B.F.A. seats",
+                          "b.f.a seats",
+                          "bfa seats",
+                          "b.f.a eligibility",
+                          "How many seats in B.F.A.",
+                          "Eligibility for B.F.A.",
+                          "B.F.A. eligibility criteria",
+                          "Qualifications for B.F.A.",
+                          "Requirements for B.F.A.",
+                          "Number of seats in B.F.A.",
+                          "Seats available for B.F.A.",
+                          "Admission requirements for B.F.A.",
+                          "B.F.A. course details"
+                        ],
+                        "responses": [
+                          "Bachelor of Fine Arts (B.F.A.): 25 seats, Eligibility: 10+2 in any Discipline, Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BCom_eligibility",
+                        "patterns": [
+                          "B.Com. seats",
+                          "b.com seats",
+                          "b com seats",
+                          "b com eligibility",
+                          "How many seats in B.Com.",
+                          "Eligibility for B.Com.",
+                          "B.Com. eligibility criteria",
+                          "Qualifications for B.Com.",
+                          "Requirements for B.Com.",
+                          "Number of seats in B.Com.",
+                          "Seats available for B.Com.",
+                          "Admission requirements for B.Com.",
+                          "B.Com. course details"
+                        ],
+                        "responses": [
+                          "B.Com.: 325 seats, Eligibility: 10+2 in Commerce, Duration: 6 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BBA_Hons_eligibility",
+                        "patterns": [
+                          "B.B.A.(Hons.) seats",
+                          "bba hons",
+                          "bba hons eligibility",
+                          "How many seats in B.B.A.(Hons.)",
+                          "Eligibility for B.B.A.(Hons.)",
+                          "B.B.A.(Hons.) eligibility criteria",
+                          "Qualifications for B.B.A.(Hons.)",
+                          "Requirements for B.B.A.(Hons.)",
+                          "Number of seats in B.B.A.(Hons.)",
+                          "Seats available for B.B.A.(Hons.)",
+                          "Admission requirements for B.B.A.(Hons.)",
+                          "B.B.A.(Hons.) course details"
+                        ],
+                        "responses": [
+                          "B.B.A.(Hons.): 60 seats, Eligibility: 10+2 in any Discipline, Duration: 6 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BSc_Bio_Group_eligibility",
+                        "patterns": [
+                          "B.Sc. Bio seats",
+                          "Bsc bio",
+                          "bsc bio",
+                          "b sc bio",
+                          "b.sc bio",
+                          "How many seats in B.Sc. Bio",
+                          "Eligibility for B.Sc. Bio Group",
+                          "B.Sc. Bio Group eligibility criteria",
+                          "Qualifications for B.Sc. Bio Group",
+                          "Requirements for B.Sc. Bio Group",
+                          "Number of seats in B.Sc. Bio Group",
+                          "Seats available for B.Sc. Bio Group",
+                          "Admission requirements for B.Sc. Bio Group",
+                          "B.Sc. Bio Group course details"
+                        ],
+                        "responses": [
+                          "B.Sc. (Bio. Group): 321 seats, Eligibility: 10+2 in Science (Biology Group), Duration: 6 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BScBEd_Bio_Group_eligibility",
+                        "patterns": [
+                          "B.Sc.B.Ed. Bio seats",
+                          "Bsc Bed bio",
+                          "bsc bed bio",
+                          "b sc bed bio",
+                          "b.sc b.ed bio",
+                          "b.sc.b.ed bio",
+                          "How many seats in B.Sc.B.Ed. Bio",
+                          "Eligibility for B.Sc.B.Ed. Bio Group",
+                          "B.Sc.B.Ed. Bio Group eligibility criteria",
+                          "Qualifications for B.Sc.B.Ed. Bio Group",
+                          "Requirements for B.Sc.B.Ed. Bio Group",
+                          "Number of seats in B.Sc.B.Ed. Bio Group",
+                          "Seats available for B.Sc.B.Ed. Bio Group",
+                          "Admission requirements for B.Sc.B.Ed. Bio Group",
+                          "B.Sc.B.Ed. Bio Group course details"
+                        ],
+                        "responses": [
+                          "B.Sc.B.Ed. (Bio. Group): 31 seats, Eligibility: 10+2 in Science (Biology Group), Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BSc_Maths_Group_eligibility",
+                        "patterns": [
+                          "B.Sc. Maths seats",
+                          "Bsc math",
+                          "bsc math",
+                          "b sc math",
+                          "b.sc math",
+                          "How many seats in B.Sc. Maths",
+                          "Eligibility for B.Sc. Maths Group",
+                          "B.Sc. Maths Group eligibility criteria",
+                          "Qualifications for B.Sc. Maths Group",
+                          "Requirements for B.Sc. Maths Group",
+                          "Number of seats in B.Sc. Maths Group",
+                          "Seats available for B.Sc. Maths Group",
+                          "Admission requirements for B.Sc. Maths Group",
+                          "B.Sc. Maths Group course details"
+                        ],
+                        "responses": [
+                          "B.Sc. (Maths Group): 288 seats, Eligibility: 10+2 (Maths Group), Duration: 6 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BCA_eligibility",
+                        "patterns": [
+                          "B.C.A. seats",
+                          "bca",
+                          "bca seats",
+                          "bca eligibility",
+                          "How many seats in B.C.A.",
+                          "Eligibility for B.C.A.",
+                          "B.C.A. eligibility criteria",
+                          "Qualifications for B.C.A.",
+                          "Requirements for B.C.A.",
+                          "Number of seats in B.C.A.",
+                          "Seats available for B.C.A.",
+                          "Admission requirements for B.C.A.",
+                          "B.C.A. course details"
+                        ],
+                        "responses": [
+                          "B.C.A.: 75 seats, Eligibility: 10+2 in any Discipline, Duration: 6 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BScBEd_Maths_Group_eligibility",
+                        "patterns": [
+                          "B.Sc.B.Ed. Maths seats",
+                          "Bsc Bed math",
+                          "bsc bed math",
+                          "b sc bed math",
+                          "How many seats in B.Sc.B.Ed. Maths",
+                          "Eligibility for B.Sc.B.Ed. Maths Group",
+                          "B.Sc.B.Ed. Maths Group eligibility criteria",
+                          "Qualifications for B.Sc.B.Ed. Maths Group",
+                          "Requirements for B.Sc.B.Ed. Maths Group",
+                          "Number of seats in B.Sc.B.Ed. Maths Group",
+                          "Seats available for B.Sc.B.Ed. Maths Group",
+                          "Admission requirements for B.Sc.B.Ed. Maths Group",
+                          "B.Sc.B.Ed. Maths Group course details"
+                        ],
+                        "responses": [
+                          "B.Sc.B.Ed. (Maths Group): 31 seats, Eligibility: 10+2 (Maths Group), Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "Bachelor_of_Pharmacy_eligibility",
+                        "patterns": [
+                          "B.Pharmacy seats",
+                          "b.pharma",
+                          "B Pharma",
+                          "b pharma",
+                          "Bachelor of Pharmacy seats",
+                          "B.Pharma seats",
+                          "How many seats in B.Pharma",
+                          "Eligibility for Bachelor of Pharmacy",
+                          "Bachelor of Pharmacy eligibility criteria",
+                          "Qualifications for Bachelor of Pharmacy",
+                          "Requirements for Bachelor of Pharmacy",
+                          "Number of seats in Bachelor of Pharmacy",
+                          "Seats available for Bachelor of Pharmacy"
+                        ],
+                        "responses": [
+                          "B.Pharm. (Bio/Maths Groups): 75 seats, Eligibility: 10+2 in Science (Biology/Maths), Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BALLB_Hons_eligibility",
+                        "patterns": [
+                           "BA LLB",
+                           "BALLB",
+                          "B.A.LL.B. seats",
+                          "How many seats in B.A.LL.B.",
+                          "Eligibility for B.A.LL.B. (Hons.)",
+                          "B.A.LL.B. (Hons.) eligibility criteria",
+                          "Qualifications for B.A.LL.B. (Hons.)",
+                          "Requirements for B.A.LL.B. (Hons.)",
+                          "Number of seats in B.A.LL.B. (Hons.)",
+                          "Seats available for B.A.LL.B. (Hons.)",
+                          "Admission requirements for B.A.LL.B. (Hons.)",
+                          "B.A.LL.B. (Hons.) course details"
+                        ],
+                        "responses": [
+                          "B.A.LL.B. (Hons) (5 Years): 53 seats, Eligibility: 10+2 in any discipline, Duration: 10 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "Bachelor_of_Hotel_Management_eligibility",
+                        "patterns": [
+                          "Hotel Management seats",
+                          "How many seats in Bachelor of Hotel Management",
+                          "Eligibility for Bachelor of Hotel Management",
+                          "Bachelor of Hotel Management eligibility criteria",
+                          "Qualifications for Bachelor of Hotel Management",
+                          "Requirements for Bachelor of Hotel Management",
+                          "Number of seats in Bachelor of Hotel Management",
+                          "Seats available for Bachelor of Hotel Management",
+                          "Admission requirements for Bachelor of Hotel Management",
+                          "Bachelor of Hotel Management course details"
+                        ],
+                        "responses": [
+                          "Bachelor of Hotel Management: 60 seats, Eligibility: 10+2 in any discipline, Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },
+                      {
+                        "tag": "BA_Hons_Vedic_Studies_eligibility",
+                        "patterns": [
+                          "Vedic Studies seats",
+                          "How many seats in B.A. Vedic Studies",
+                          "Eligibility for B.A. (Hons.) Vedic Studies",
+                          "B.A. (Hons.) Vedic Studies eligibility criteria",
+                          "Qualifications for B.A. (Hons.) Vedic Studies",
+                          "Requirements for B.A. (Hons.) Vedic Studies",
+                          "Number of seats in B.A. (Hons.) Vedic Studies",
+                          "Seats available for B.A. (Hons.) Vedic Studies",
+                          "Admission requirements for B.A. (Hons.) Vedic Studies",
+                          "B.A. (Hons.) Vedic Studies course details"
+                        ],
+                        "responses": [
+                          "B.A. (Hons.) Vedic Studies: 40 seats, Eligibility: 10+2 in any discipline, Duration: 8 Semesters"
+                        ],
+                        "context_set": ""
+                      },                      
+                     {
+                         "tag": "result_check",
+                         "patterns": [
+                             "How do I check my exam results?",
+                             "Where can I find DHSGSU exam results?",
+                             "When are DHSGSU results published?",
+                             "What is the procedure to check results?"
+                         ],
+                         "responses": [
+                             "You can check your results on the official DHSGSU MPOnline portal. Enter your registration number and father's name to access your semester results. <a target=\"_blank\" href=\"https://dhsgu.mponline.gov.in/Portal/Services/DHSGU/UTD/frmUTDResult.aspx\">Click here</a>"
+                         ],
+                         "context_set": ""
+                     },
+                     {
+                         "tag": "result_date_info",
+                         "patterns": [
+                             "When will the exam results be declared?",
+                             "What is the result date for recent exams?",
+                             "When can we expect DHSGSU results?",
+                             "How long does it take to release results?"
+                         ],
+                         "responses": [
+                             "The result declaration date varies based on the exam schedule. Results are typically announced a few weeks after exams. Please check the official DHSGSU website for specific dates and notifications."
+                         ],
+                         "context_set": ""
+                     },
+                     {
+                        "tag": "fallback",
+                        "patterns": [
+                            ""
+                        ],
+                        "responses": [
+                            "I'm sorry, I didn't understand that. Can you please rephrase?",
+                            "I didn't get that. Can you say it differently?",
+                            "I'm not sure I understand. Could you clarify?"
+                        ],
+                        "context_set": ""
+                    },
+                     {
+                         "tag": "result_issue",
+                         "patterns": [
+                             "What should I do if there is an error in my result?",
+                             "How can I rectify a mistake in my DHSGSU result?",
+                             "Whom should I contact for discrepancies in my exam results at Dr. Harisingh Gour University?",
+                             "What is the process to report errors in DHSGSU results?"
+                         ],
+                         "responses": [
+                             "Correction, if any, should be corrected within 5 days from the date of uploading the result. Download the prescribed application form for correction from the MPOnline website and submit it to the CBCS Examination Cell."
+                         ],
+                         "context_set": ""
+                     }
+                 ]
+               }                 
+                        

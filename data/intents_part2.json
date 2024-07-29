@@ -1,0 +1,1005 @@
+{
+  "intents": [
+     {
+        "tag": "ancient_indian_history_seats",
+        "patterns": [
+           "How many seats are there in Ancient Indian History Culture Archaeology?",
+           "Tell me about the seats in Ancient Indian History Culture Archaeology",
+           "Ancient History Culture Archaeology seat details"
+        ],
+        "responses": [
+           "Ancient Indian History Culture and Archaeology: 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "anthropology_seats",
+        "patterns": [
+           "Anthropology seat details",
+           "How many seats in Anthropology?",
+           "Anthropology M.A. M.Sc. seats"
+        ],
+        "responses": [
+           "Anthropology (M.A./M.Sc.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "applied_geology_seats",
+        "patterns": [
+           "Applied Geology seats",
+           "How many seats in Applied Geology?",
+           "Seat details for Applied Geology"
+        ],
+        "responses": [
+           "Applied Geology: 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "applied_microbiology_seats",
+        "patterns": [
+           "Applied Microbiology seat details",
+           "How many seats in Applied Microbiology?",
+           "Details about Applied Microbiology seats"
+        ],
+        "responses": [
+           "Applied Microbiology: 19 seats (UR: 9, EWS: 2, OBC: 5, SC: 2, ST: 1)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "biotechnology_seats",
+        "patterns": [
+           "Biotechnology seat distribution",
+           "How many seats in Biotechnology?",
+           "Biotechnology seats"
+        ],
+        "responses": [
+           "Biotechnology: 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "business_management_seats",
+        "patterns": [
+           "MBA Business Management seat details",
+           "How many seats in MBA Business Management?",
+           "Seat availability for MBA Business Management"
+        ],
+        "responses": [
+           "Business Management (M.B.A.): 60 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "human_resource_management_seats",
+        "patterns": [
+           "MBA Human Resource Management seat details",
+           "How many seats in MBA Human Resource Management?",
+           "Details of seats in MBA Human Resource Management"
+        ],
+        "responses": [
+           "Human Resource Management (M.B.A.): 60 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "finance_management_seats",
+        "patterns": [
+           "MBA Finance Management seat distribution",
+           "How many seats in MBA Finance Management?",
+           "Finance Management MBA seats"
+        ],
+        "responses": [
+           "Finance Management (M.B.A.): 60 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "marketing_management_seats",
+        "patterns": [
+           "MBA Marketing Management seat details",
+           "How many seats in MBA Marketing Management?",
+           "Marketing Management MBA seats"
+        ],
+        "responses": [
+           "Marketing Management (M.B.A.): 60 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "healthcare_management_seats",
+        "patterns": [
+           "MBA Healthcare Hospital Management seat details",
+           "How many seats in MBA Healthcare Hospital Management?",
+           "Seat allocation for MBA Healthcare Hospital Management"
+        ],
+        "responses": [
+           "Healthcare & Hospital Management (M.B.A.): 60 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "travel_management_seats",
+        "patterns": [
+           "MBA Travel Tourism Management seat details",
+           "How many seats in MBA Travel Tourism Management?",
+           "Details of seats for MBA Travel Tourism Management"
+        ],
+        "responses": [
+           "Travel & Tourism Management (M.B.A.): 60 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "chemistry_seats",
+        "patterns": [
+           "Chemistry M.Sc. seats",
+           "How many seats in Chemistry?",
+           "Seat structure for Chemistry"
+        ],
+        "responses": [
+           "Chemistry (M.Sc.): 62 seats (UR: 27, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "commerce_seats",
+        "patterns": [
+           "Commerce M.Com. seats",
+           "How many seats in Commerce?",
+           "Seat availability in Commerce"
+        ],
+        "responses": [
+           "Commerce (M.Com.): 75 seats (UR: 32, EWS: 7, OBC: 18, SC: 10, ST: 5)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "computer_application_seats",
+        "patterns": [
+           "MCA seats",
+           "How many seats in MCA?",
+           "Details about MCA seats",
+           "Computer Application M.C.A. seats"
+        ],
+        "responses": [
+           "Computer Application (M.C.A.): 50 seats (UR: 22, EWS: 5, OBC: 13, SC: 7, ST: 3)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "criminology_seats",
+        "patterns": [
+           "Criminology seat details",
+           "How many seats in Criminology?",
+           "Seat details for Criminology"
+        ],
+        "responses": [
+           "Criminology: 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+        ],
+        "context_set": ""
+     },
+     {
+        "tag": "economics_seats",
+        "patterns": [
+           "Economics seat structure",
+           "How many seats in Economics?",
+           "Economics M.Sc. seats"
+        ],
+        "responses": [
+           "Economics: 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+        ],
+        "context_set": ""
+     },
+        {
+          "tag": "education_med_seats",
+          "patterns": [
+            "Education M.Ed. seats",
+            "How many seats in Education M.Ed.?",
+            "Education seat details"
+          ],
+          "responses": [
+            "Education (M.Ed.): 62 seats (UR: 27, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "english_ma_seats",
+          "patterns": [
+            "English M.A. seats",
+            "How many seats in English M.A.?",
+            "English seat details"
+          ],
+          "responses": [
+            "English (M.A.): 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "forensic_science_msc_seats",
+          "patterns": [
+            "Forensic Science M.Sc. seats",
+            "How many seats in Forensic Science M.Sc.?",
+            "Forensic Science seat details"
+          ],
+          "responses": [
+            "Forensic Science (M.Sc.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "geography_ma_msc_seats",
+          "patterns": [
+            "Geography M.A. M.Sc. seats",
+            "How many seats in Geography M.A. M.Sc.?",
+            "Geography seat details"
+          ],
+          "responses": [
+            "Geography (M.A./M.Sc.): 50 seats (UR: 22, EWS: 5, OBC: 13, SC: 7, ST: 3)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "hindi_ma_seats",
+          "patterns": [
+            "Hindi M.A. seats",
+            "How many seats in Hindi M.A.?",
+            "Hindi seat details"
+          ],
+          "responses": [
+            "Hindi (M.A.): 50 seats (UR: 22, EWS: 5, OBC: 13, SC: 7, ST: 3)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "history_ma_seats",
+          "patterns": [
+            "History M.A. seats",
+            "How many seats in History M.A.?",
+            "History seat details"
+          ],
+          "responses": [
+            "History (M.A.): 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "journalism_communication_mj_seats",
+          "patterns": [
+            "Journalism Communication M.J. seats",
+            "How many seats in Journalism Communication M.J.?",
+            "Journalism Communication seat details"
+          ],
+          "responses": [
+            "Journalism & Communication (M.J.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "law_llm_seats",
+          "patterns": [
+            "Law LL.M. seats",
+            "How many seats in Law LL.M.?",
+            "Law seat details"
+          ],
+          "responses": [
+            "Law (LL.M.): 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "library_science_mlibsc_seats",
+          "patterns": [
+            "Library Science M.Lib.Sc. seats",
+            "How many seats in Library Science M.Lib.Sc.?",
+            "Library Science seat details"
+          ],
+          "responses": [
+            "Library Science (M.Lib.Sc.): 30 seats (UR: 14, EWS: 3, OBC: 8, SC: 4, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "linguistics_ma_seats",
+          "patterns": [
+            "Linguistics M.A. seats",
+            "How many seats in Linguistics M.A.?",
+            "Linguistics seat details"
+          ],
+          "responses": [
+            "Linguistics (M.A.): 12 seats (UR: 7, EWS: 1, OBC: 3, SC: 1, ST: 0)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "mathematics_msc_ma_seats",
+          "patterns": [
+            "Mathematics M.Sc. M.A. seats",
+            "How many seats in Mathematics M.Sc. M.A.?",
+            "Mathematics seat details"
+          ],
+          "responses": [
+            "Mathematics (M.Sc./M.A.): 44 seats (UR: 20, EWS: 5, OBC: 12, SC: 6, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "hindustani_music_vocal_tabla_ma_seats",
+          "patterns": [
+            "Hindustani Music Vocal Tabla M.A. seats",
+            "How many seats in Hindustani Music Vocal Tabla M.A.?",
+            "Hindustani Music seat details"
+          ],
+          "responses": [
+            "Hindustani Music (Vocal/Tabla) (M.A.): 10 seats (UR: 3, EWS: 3, OBC: 3, SC: 1, ST: 0)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "percussion_music_ma_seats",
+          "patterns": [
+            "Percussion Music M.A. seats",
+            "How many seats in Percussion Music M.A.?",
+            "Percussion Music seat details"
+          ],
+          "responses": [
+            "Percussion Music (M.A.): 10 seats (UR: 3, EWS: 3, OBC: 3, SC: 1, ST: 0)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "pharmacy_mpharm_seats",
+          "patterns": [
+            "Pharmacy M.Pharm. seats",
+            "How many seats in Pharmacy M.Pharm.?",
+            "Pharmacy seat details"
+          ],
+          "responses": [
+            "Pharmacy (M.Pharm.): 56 seats (UR: 25, EWS: 6, OBC: 16, SC: 9, ST: 4)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "philosophy_ma_seats",
+          "patterns": [
+            "Philosophy M.A. seats",
+            "How many seats in Philosophy M.A.?",
+            "Philosophy seat details"
+          ],
+          "responses": [
+            "Philosophy (M.A.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "physics_msc_seats",
+          "patterns": [
+            "Physics M.Sc. seats",
+            "How many seats in Physics M.Sc.?",
+            "Physics seat details"
+          ],
+          "responses": [
+            "Physics (M.Sc.): 37 seats (UR: 18, EWS: 3, OBC: 9, SC: 5, ST: 2)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "political_science_ma_seats",
+          "patterns": [
+            "Political Science M.A. seats",
+            "How many seats in Political Science M.A.?",
+            "Political Science seat details"
+          ],
+          "responses": [
+            "Political Science (M.A.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "public_administration_ma_seats",
+          "patterns": [
+            "Public Administration M.A. seats",
+            "How many seats in Public Administration M.A.?",
+            "Public Administration seat details"
+          ],
+          "responses": [
+            "Public Administration (M.A.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+          ],
+          "context_set": ""
+        },
+        {
+          "tag": "psychology_ma_msc_seats",
+          "patterns": [
+            "Psychology M.A. M.Sc. seats",
+            "How many seats in Psychology M.A. M.Sc.?",
+            "Psychology seat details"
+          ],
+          "responses": [
+            "Psychology (M.A./M.Sc.): 50 seats (UR: 22, EWS: 5, OBC: 13, SC: 7, ST: 3)"
+          ],
+          "context_set": ""
+        },
+            {
+              "tag": "rural_development_ma_seats",
+              "patterns": [
+                "Rural Development M.A. seats",
+                "How many seats in Rural Development M.A.?"
+              ],
+              "responses": [
+                "Rural Development (M.A.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "sanskrit_ma_seats",
+              "patterns": [
+                "Sanskrit M.A. seats",
+                "How many seats in Sanskrit M.A.?"
+              ],
+              "responses": [
+                "Sanskrit (M.A.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "sociology_ma_seats",
+              "patterns": [
+                "Sociology M.A. seats",
+                "How many seats in Sociology M.A.?"
+              ],
+              "responses": [
+                "Sociology (M.A.): 25 seats (UR: 13, EWS: 2, OBC: 6, SC: 3, ST: 1)"
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "urdu_ma_seats",
+              "patterns": [
+                "Urdu M.A. seats",
+                "How many seats in Urdu M.A.?"
+              ],
+              "responses": [
+                "Urdu (M.A.): 12 seats (UR: 7, EWS: 1, OBC: 3, SC: 1, ST: 0)"
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "journalism_mass_communication_phone",
+              "patterns": [
+                "Mobile number of Journalism & Mass Communication?",
+                "Contact number for Journalism & Mass Communication?",
+                "Phone number for Journalism & Mass Communication?"
+              ],
+              "responses": [
+                "The contact number for Journalism & Mass Communication is 297159."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "library_information_science_phone",
+              "patterns": [
+                "Mobile number of Library & Information Science?",
+                "Contact number for Library & Information Science?",
+                "Phone number for Library & Information Science?"
+              ],
+              "responses": [
+                "The contact number for Library & Information Science is 297168."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "fine_arts_performing_arts_phone",
+              "patterns": [
+                "Mobile number of Fine Arts & Performing Arts?",
+                "Contact number for Fine Arts & Performing Arts?",
+                "Phone number for Fine Arts & Performing Arts?"
+              ],
+              "responses": [
+                "The contact number for Fine Arts & Performing Arts is 297129."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "music_phone",
+              "patterns": [
+                "Mobile number of Music?",
+                "Contact number for Music?",
+                "Phone number for Music?"
+              ],
+              "responses": [
+                "The contact number for Music is 297162."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "department_of_chemistry_phone",
+              "patterns": [
+                "Mobile number of Department of Chemistry?",
+                "Contact number for Department of Chemistry?",
+                "Phone number for Department of Chemistry?"
+              ],
+              "responses": [
+                "The contact number for Department of Chemistry is 265822."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "ancient_indian_history_phone",
+              "patterns": [
+                "Mobile number of Ancient Indian History?",
+                "Contact number for Ancient Indian History?",
+                "Phone number for Ancient Indian History?"
+              ],
+              "responses": [
+                "The contact number for Ancient Indian History is 297159."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "economics_phone",
+              "patterns": [
+                "Mobile number of Economics?",
+                "Contact number for Economics?",
+                "Phone number for Economics?"
+              ],
+              "responses": [
+                "The contact number for Economics is 297152."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "history_phone",
+              "patterns": [
+                "Mobile number of History?",
+                "Contact number for History?",
+                "Phone number for History?"
+              ],
+              "responses": [
+                "The contact number for History is 297146."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "philosophy_phone",
+              "patterns": [
+                "Mobile number of Philosophy?",
+                "Contact number for Philosophy?",
+                "Phone number for Philosophy?"
+              ],
+              "responses": [
+                "The contact number for Philosophy is 297147."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "psychology_phone",
+              "patterns": [
+                "Mobile number of Psychology?",
+                "Contact number for Psychology?",
+                "Phone number for Psychology?"
+              ],
+              "responses": [
+                "The contact number for Psychology is 297148."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "political_science_public_administration_phone",
+              "patterns": [
+                "Mobile number of Political Science & Public Administration?",
+                "Contact number for Political Science & Public Administration?",
+                "Phone number for Political Science & Public Administration?"
+              ],
+              "responses": [
+                "The contact number for Political Science & Public Administration is 297154."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "sociology_social_work_phone",
+              "patterns": [
+                "Mobile number of Sociology & Social Work?",
+                "Contact number for Sociology & Social Work?",
+                "Phone number for Sociology & Social Work?"
+              ],
+              "responses": [
+                "The contact number for Sociology & Social Work is 297158."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "computer_science_application_phone",
+              "patterns": [
+                "Mobile number of Computer Science & Application?",
+                "Contact number for Computer Science & Application?",
+                "Phone number for Computer Science & Application?"
+              ],
+              "responses": [
+                "The contact number for Computer Science & Application is 297128."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "maths_statistics_phone",
+              "patterns": [
+                "Mobile number of Maths and Statistics?",
+                "Contact number for Maths and Statistics?",
+                "Phone number for Maths and Statistics?"
+              ],
+              "responses": [
+                "The contact number for Maths and Statistics is 297126."
+              ],
+              "context_set": ""
+            },
+            {
+              "tag": "physics_phone",
+              "patterns": [
+                "Mobile number of Physics?",
+                "Contact number for Physics?",
+                "Phone number for Physics?"
+              ],
+              "responses": [
+                "The contact number for Physics is 297127."
+              ],
+              "context_set": ""
+            },
+                {
+                  "tag": "english_european_languages_phone",
+                  "patterns": [
+                    "Mobile number of English & other European Languages?",
+                    "Contact number for English & other European Languages?",
+                    "Phone number for English & other European Languages?"
+                  ],
+                  "responses": [
+                    "The contact number for English & other European Languages is 297159."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "hindi_phone",
+                  "patterns": [
+                    "Mobile number of Hindi?",
+                    "Contact number for Hindi?",
+                    "Phone number for Hindi?"
+                  ],
+                  "responses": [
+                    "The contact number for Hindi is 297156."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "linguistics_phone",
+                  "patterns": [
+                    "Mobile number of Linguistics?",
+                    "Contact number for Linguistics?",
+                    "Phone number for Linguistics?"
+                  ],
+                  "responses": [
+                    "The contact number for Linguistics is 297171."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "sanskrit_phone",
+                  "patterns": [
+                    "Mobile number of Sanskrit?",
+                    "Contact number for Sanskrit?",
+                    "Phone number for Sanskrit?"
+                  ],
+                  "responses": [
+                    "The contact number for Sanskrit is 297157."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "urdu_persian_phone",
+                  "patterns": [
+                    "Mobile number of Urdu & Persian?",
+                    "Contact number for Urdu & Persian?",
+                    "Phone number for Urdu & Persian?"
+                  ],
+                  "responses": [
+                    "The contact number for Urdu & Persian is 297149."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "commerce_phone",
+                  "patterns": [
+                    "Mobile number of Commerce?",
+                    "Contact number for Commerce?",
+                    "Phone number for Commerce?"
+                  ],
+                  "responses": [
+                    "The contact number for Commerce is 264504."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "business_management_phone",
+                  "patterns": [
+                    "Mobile number of Business Management?",
+                    "Contact number for Business Management?",
+                    "Phone number for Business Management?"
+                  ],
+                  "responses": [
+                    "The contact number for Business Management is 297144."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "anthropology_phone",
+                  "patterns": [
+                    "Mobile number of Anthropology?",
+                    "Contact number for Anthropology?",
+                    "Phone number for Anthropology?"
+                  ],
+                  "responses": [
+                    "The contact number for Anthropology is 297137."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "criminology_forensic_science_phone",
+                  "patterns": [
+                    "Mobile number of Criminology & Forensic Science?",
+                    "Contact number for Criminology & Forensic Science?",
+                    "Phone number for Criminology & Forensic Science?"
+                  ],
+                  "responses": [
+                    "The contact number for Criminology & Forensic Science is 297139."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "general_applied_geography_phone",
+                  "patterns": [
+                    "Mobile number of General & Applied Geography?",
+                    "Contact number for General & Applied Geography?",
+                    "Phone number for General & Applied Geography?"
+                  ],
+                  "responses": [
+                    "The contact number for General & Applied Geography is 297141."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "department_of_law_phone",
+                  "patterns": [
+                    "Mobile number of Department of Law?",
+                    "Contact number for Department of Law?",
+                    "Phone number for Department of Law?"
+                  ],
+                  "responses": [
+                    "The contact number for Department of Law is 297153."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "applied_geology_phone",
+                  "patterns": [
+                    "Mobile number of Applied Geology?",
+                    "Contact number for Applied Geology?",
+                    "Phone number for Applied Geology?"
+                  ],
+                  "responses": [
+                    "The contact number for Applied Geology is 297124."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "pharmaceutical_science_phone",
+                  "patterns": [
+                    "Mobile number of Pharmaceutical Science?",
+                    "Contact number for Pharmaceutical Science?",
+                    "Phone number for Pharmaceutical Science?"
+                  ],
+                  "responses": [
+                    "The contact number for Pharmaceutical Science is 297136."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "adult_education_phone",
+                  "patterns": [
+                    "Mobile number of Adult Education?",
+                    "Contact number for Adult Education?",
+                    "Phone number for Adult Education?"
+                  ],
+                  "responses": [
+                    "The contact number for Adult Education is 297140."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "education_phone",
+                  "patterns": [
+                    "Mobile number of Education?",
+                    "Contact number for Education?",
+                    "Phone number for Education?"
+                  ],
+                  "responses": [
+                    "The contact number for Education is 297138."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "physical_education_phone",
+                  "patterns": [
+                    "Mobile number of Physical Education?",
+                    "Contact number for Physical Education?",
+                    "Phone number for Physical Education?"
+                  ],
+                  "responses": [
+                    "The contact number for Physical Education is 297150."
+                  ],
+                  "context_set": ""
+                },
+                {
+                  "tag": "botany_phone",
+                  "patterns": [
+                    "Mobile number of Botany?",
+                    "Contact number for Botany?",
+                    "Phone number for Botany?"
+                  ],
+                  "responses": [
+                    "The contact number for Botany is 297125."
+                  ],
+                  "context_set": ""
+                },
+                    {
+                      "tag": "biotechnology_phone",
+                      "patterns": [
+                        "Mobile number of Biotechnology?",
+                        "Contact number for Biotechnology?",
+                        "Phone number for Biotechnology?"
+                      ],
+                      "responses": [
+                        "The contact number for Biotechnology is 297160."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "microbiology_phone",
+                      "patterns": [
+                        "Mobile number of Microbiology?",
+                        "Contact number for Microbiology?",
+                        "Phone number for Microbiology?"
+                      ],
+                      "responses": [
+                        "The contact number for Microbiology is 297143."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "zoology_phone",
+                      "patterns": [
+                        "Mobile number of Zoology?",
+                        "Contact number for Zoology?",
+                        "Phone number for Zoology?"
+                      ],
+                      "responses": [
+                        "The contact number for Zoology is 297134."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "it_cell_info",
+                      "patterns": [
+                        "What is the IT Cell at DHSGSU?",
+                        "Tell me about the IT Cell of Dr. Harisingh Gour University",
+                        "What services does the IT Cell provide at DHSGSU?",
+                        "What is the role of the IT Cell at Dr. Harisingh Gour Vishwavidyalaya?",
+                        "What does the IT Cell do at DHSGSU?"
+                      ],
+                      "responses": [
+                        "The IT Cell at Dr. Harisingh Gour Vishwavidyalaya is responsible for managing and maintaining the university's IT infrastructure, including the internet, intranet, and various software applications used by students and staff. It also provides technical support and ensures the smooth functioning of digital services at the university."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "it_cell_contact",
+                      "patterns": [
+                        "How can I contact the IT Cell at DHSGSU?",
+                        "What is the contact information for the IT Cell of Dr. Harisingh Gour University?",
+                        "Who should I reach out to for IT issues at DHSGSU?",
+                        "How do I get in touch with the IT Cell at Dr. Harisingh Gour Vishwavidyalaya?",
+                        "Where can I find the IT Cell office at DHSGSU?"
+                      ],
+                      "responses": [
+                        "You can contact the IT Cell at Dr. Harisingh Gour Vishwavidyalaya through their official email or by visiting their office on campus. The contact details and office location are usually available on the university's official website."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "it_support",
+                      "patterns": [
+                        "What should I do if I face technical issues at DHSGSU?",
+                        "How do I report an IT problem at Dr. Harisingh Gour University?",
+                        "Who can help me with technical support at DHSGSU?",
+                        "mhrd related technical issues",
+                        "iums portal realted issues",
+                        "What is the process to get IT support at Dr. Harisingh Gour Vishwavidyalaya?",
+                        "How can I get help with my university email account?"
+                      ],
+                      "responses": [
+                        "If you face any technical issues, you should report them to the IT Cell at Dr. Harisingh Gour Vishwavidyalaya. You can do this by sending an email to their official support address or by visiting the IT Cell office. They will assist you with problems related to internet access, software, university email accounts, and other IT services."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "college_quality",
+                      "patterns": [
+                        "Is Dr. Harisingh Gour Vishwavidyalaya a good college?",
+                        "What do students say about DHSGSU?",
+                        "Is DHSGSU a good place to study?",
+                        "How is the environment at Dr. Harisingh Gour University?",
+                        "What is the student experience like at DHSGSU?",
+                        "Would you recommend Dr. Harisingh Gour Vishwavidyalaya?"
+                      ],
+                      "responses": [
+                        "Yes, Dr. Harisingh Gour Vishwavidyalaya is a good college. The environment on campus is highly natural and very conducive to study. The university stadium is excellent for playing different games. One of the most memorable aspects of the university is the 'Tapri', where students often gather for tea, especially in winter. The campus is very cool and calm, and it is particularly beautiful during the rainy season. The teachers are very cooperative and well-trained, and the seniors are friendly and helpful."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "university_type",
+                      "patterns": [
+                        "Is Dr. Harisingh Gour University private or government?",
+                        "Is DHSGSU a private university?",
+                        "Is Dr. Harisingh Gour Vishwavidyalaya a government college?",
+                        "What type of university is DHSGSU?",
+                        "Is DHSGSU a public or private institution?",
+                        "Is Dr. Harisingh Gour University funded by the government?"
+                      ],
+                      "responses": [
+                        "Dr. Harisingh Gour University is a government university (Central university) which is spread across more than 1000 acres of land. It is situated in the state of Madhya Pradesh. The central university offers 30+ UG, PG and PhD degrees in the fields of humanities, science, education, and more. Aspirants who wish to take admission into the central university must appear for CUET UG and PG."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "university_ranking",
+                      "patterns": [
+                        "What is the ranking of Dr. Harisingh Gour University?",
+                        "How is DHSGSU ranked?",
+                        "What is the rank of Dr. Harisingh Gour Vishwavidyalaya?",
+                        "Where does DHSGSU stand in university rankings?",
+                        "What is the national ranking of Dr. Harisingh Gour University?",
+                        "How does Dr. Harisingh Gour University rank among other universities?"
+                      ],
+                      "responses": [
+                        "The Week ranked Dr. Harisingh Gour University at number 30 in the overall university category in 2023. Moreover, Edu Rank has ranked the central university at number 2 out of 30 state universities. On the national level, Dr. Harisingh Gour University has been ranked number 97 out of 876 universities."
+                      ],
+                      "context_set": ""
+                    },
+                    {
+                      "tag": "fallback",
+                      "patterns": [
+                          ""
+                      ],
+                      "responses": [
+                          "I'm sorry, I didn't understand that. Can you please rephrase?",
+                          "I didn't get that. Can you say it differently?",
+                          "I'm not sure I understand. Could you clarify?"
+                      ],
+                      "context_set": ""
+                  },
+                    {
+                      "tag": "it_services",
+                      "patterns": [
+                        "What IT services are available at DHSGSU?",
+                        "Does Dr. Harisingh Gour University provide internet access for students?",
+                        "What software and applications are supported by the IT Cell at DHSGSU?",
+                        "Can I get access to the university's intranet at DHSGSU?",
+                        "What digital resources are provided by the IT Cell at Dr. Harisingh Gour Vishwavidyalaya?"
+                      ],
+                      "responses": [
+                        "The IT Cell at DHSGSU provides a range of services, including internet access, intranet facilities, support for various software and applications, digital resources, and technical support for both students and staff. They ensure that the digital infrastructure of the university runs smoothly and efficiently."
+                      ],
+                      "context_set": ""
+                    }
+                  ]
+                }
+                            
