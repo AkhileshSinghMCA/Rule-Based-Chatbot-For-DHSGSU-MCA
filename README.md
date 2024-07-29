@@ -34,3 +34,11 @@ To get started with the DHSGSU Chatbot, follow these steps:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/AkhileshSinghMCA/Rule-Based-Chatbot-For-DHSGSU.git
+2. **Navigate to the Project Directory:**
+   ```sh
+   cd Rule-Based-Chatbot-For-DHSGSU-MCA
+3. **Install Dependencies:**
+   ```sh
+   pip install -r requirements.txt
+
+
